@@ -1,4 +1,4 @@
-## Hi, I'm Sagar 👋
+## Hi, I'm Sagar  👋
 
 I am a Computer Science and Information Technology graduate with a strong interest in data analysis, machine learning, artificial intelligence, and backend development. I enjoy working with data to uncover insights, building intelligent models, and developing applications that connect analytical logic with real-world use cases.
 
